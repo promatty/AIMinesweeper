@@ -5,7 +5,7 @@ An AI which can play minesweeper. This project is based off a problem from CS50'
 
 ## Run Locally
 
-Clone the project, then run the following to install pygame
+Clone the project, then install pygame
 
 ```bash
   pip3 install -r requirements.txt
